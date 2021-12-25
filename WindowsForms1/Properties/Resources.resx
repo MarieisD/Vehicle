@@ -118,16 +118,43 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="безшовная" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\безшовная.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="tram" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tram.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="construction_project_plan_building_architect_design_develop-77_icon-icons.com_60235" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\construction_project_plan_building_architect_design_develop-77_icon-icons.com_60235.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="truck" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\truck.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tractor" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tractor.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="C_D" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\C_D.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="T_E" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\T_E.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="C_G" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\C_G.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="B_D" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\B_D.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="C_P" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\C_P.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="C_E" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\C_E.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="M_P" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\M_P.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="builder-24_icon-icons.com_60367" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\builder-24_icon-icons.com_60367.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="construction_project_plan_building_architect_design_develop-77_icon-icons.com_60235" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\construction_project_plan_building_architect_design_develop-77_icon-icons.com_60235.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

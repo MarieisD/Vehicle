@@ -37,7 +37,6 @@ namespace WindowsForms1
             this.pass = new System.Windows.Forms.TextBox();
             this.buttonLogin = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
-            this.adminButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.SuspendLayout();
@@ -135,25 +134,6 @@ namespace WindowsForms1
             this.label2.MouseEnter += new System.EventHandler(this.label2_MouseEnter);
             this.label2.MouseLeave += new System.EventHandler(this.label2_MouseLeave);
             // 
-            // adminButton
-            // 
-            this.adminButton.BackColor = System.Drawing.Color.Azure;
-            this.adminButton.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.adminButton.FlatAppearance.BorderColor = System.Drawing.Color.Azure;
-            this.adminButton.FlatAppearance.BorderSize = 0;
-            this.adminButton.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Aqua;
-            this.adminButton.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightCyan;
-            this.adminButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.adminButton.Font = new System.Drawing.Font("Microsoft Tai Le", 13.875F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.adminButton.ForeColor = System.Drawing.SystemColors.Desktop;
-            this.adminButton.Location = new System.Drawing.Point(1009, 12);
-            this.adminButton.Name = "adminButton";
-            this.adminButton.Size = new System.Drawing.Size(134, 30);
-            this.adminButton.TabIndex = 19;
-            this.adminButton.Text = "Admin";
-            this.adminButton.UseVisualStyleBackColor = false;
-            this.adminButton.Click += new System.EventHandler(this.adminButton_Click);
-            // 
             // Authorization
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 25F);
@@ -162,7 +142,6 @@ namespace WindowsForms1
             this.BackgroundImage = global::WindowsForms1.Properties.Resources._1;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.ClientSize = new System.Drawing.Size(1154, 682);
-            this.Controls.Add(this.adminButton);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.buttonLogin);
             this.Controls.Add(this.pass);
@@ -196,7 +175,6 @@ namespace WindowsForms1
         private System.Windows.Forms.TextBox pass;
         private System.Windows.Forms.Button buttonLogin;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button adminButton;
     }
 }
 

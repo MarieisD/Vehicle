@@ -154,5 +154,10 @@ namespace WindowsForms1
                 return false;
 
         }
+
+        private void userName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

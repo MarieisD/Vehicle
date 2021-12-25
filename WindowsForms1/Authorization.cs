@@ -47,14 +47,6 @@ namespace WindowsForms1
             label2.ForeColor = Color.White;
         }
 
-
-        private void adminButton_Click(object sender, EventArgs e)
-        {
-            this.Hide();
-            Authorization_A admin = new Authorization_A();
-            admin.Show();
-        }
-
         private void buttonLogin_Click(object sender, EventArgs e)
         {
             String loginUser = logBox.Text;

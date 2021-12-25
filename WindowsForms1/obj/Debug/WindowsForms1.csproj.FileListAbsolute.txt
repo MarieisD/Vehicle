@@ -10,7 +10,6 @@ D:\source\repos\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.pdb
 D:\source\repos\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.Authorization.resources
 D:\source\repos\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.Registration.resources
 D:\source\repos\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.Main.resources
-D:\source\repos\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.Authorization_A.resources
 D:\source\repos\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.exe.config
 D:\source\repos\WindowsForms1\WindowsForms1\bin\Debug\MySql.Data.dll
 D:\source\repos\WindowsForms1\WindowsForms1\bin\Debug\Google.Protobuf.dll
@@ -26,3 +25,4 @@ D:\source\repos\WindowsForms1\WindowsForms1\bin\Debug\K4os.Hash.xxHash.dll
 D:\source\repos\WindowsForms1\WindowsForms1\bin\Debug\System.Numerics.Vectors.dll
 D:\source\repos\WindowsForms1\WindowsForms1\bin\Debug\MySql.Data.xml
 D:\source\repos\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.csproj.CopyComplete
+D:\source\repos\WindowsForms1\WindowsForms1\obj\Debug\WindowsForms1.Parameters.resources
